@@ -3,7 +3,7 @@
 ## 사용한 에셋  
 - 이미지: <img width="360" height="425" alt="image" src="https://github.com/user-attachments/assets/7d9fbb49-3166-4d9f-a36d-76d8b1210350" /> PNGWING
   
-- 사운드:  
+- 사운드:  tan01.wav The Sounds Resource , Touhou project
 
 ## 사용한 AI 프롬프트 (요약)  
 1. 캐릭터 이동 스크립트 작성 요청  
